@@ -1,0 +1,5 @@
+export const PaginationConstants = {
+  UPADE_CURREN_PAGE: "UPADE_CURREN_PAGE",
+  GET_NEXT_PAGE: "GET_NEXT_PAGE",
+  GET_PREVIOUS_PAGE: "GET_PREVIOUS_PAGE",
+};

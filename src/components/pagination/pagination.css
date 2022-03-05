@@ -1,0 +1,22 @@
+.navigation-container {
+  list-style-type: none;
+  display: flex;
+  margin: center;
+  justify-content: center;
+  padding-left: 0px;
+}
+.navigation-item {
+  margin: 10px;
+  cursor: pointer;
+  color: black;
+}
+.navigation-item.selected {
+  margin: 10px;
+  cursor: pointer;
+  color: blue;
+}
+
+.navigation-item.diabled {
+  cursor: none;
+  color: burlywood;
+}
